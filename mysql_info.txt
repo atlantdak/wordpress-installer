@@ -1,0 +1,11 @@
+site: domain.com
+user: domain_com
+password: mypassword123
+db: db_domain_com
+=====================================
+
+site: example.com
+user: example_com
+password: superstrongpass
+db: db_example_com
+=====================================
